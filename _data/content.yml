@@ -13,7 +13,11 @@ radiopublic_link: #
 rss_link: #
 
 episodes:
-  - name: Joaco Niemann
+  - name: Ep 63 - Joaco Niemann
+    embed_link: https://embed.radiopublic.com/e?if=preserve-this-podcast-WDJY3A&ge=s1!f8e4e63fe6cd7c55e2102b378758668d8d766f58
+  - name: Ep 62 - El Masters!
+    embed_link: https://embed.radiopublic.com/e?if=preserve-this-podcast-WDJY3A&ge=s1!f8e4e63fe6cd7c55e2102b378758668d8d766f58
+  - name: Ep 61 - La previa del Masters
     embed_link: https://embed.radiopublic.com/e?if=preserve-this-podcast-WDJY3A&ge=s1!f8e4e63fe6cd7c55e2102b378758668d8d766f58
 
 #   - name: Prepare your Files for Archiving
