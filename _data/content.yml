@@ -13,11 +13,11 @@ radiopublic_link: #
 rss_link: #
 
 episodes:
-  - name: Prologue—Podcasts are Disappearing
+  - name: Joaco Niemann
     embed_link: https://embed.radiopublic.com/e?if=preserve-this-podcast-WDJY3A&ge=s1!f8e4e63fe6cd7c55e2102b378758668d8d766f58
-    download_link: https://ia801508.us.archive.org/17/items/PreserveThisPodcast-prologue-podcasts-are-disappearing/PTP_Prologue_MIX_-16LUFS_190206.mp3
-    exercises_link:
-    transcript_file: transcript-00prologue
+    download_link: #
+    exercises_link: #
+    transcript_file: #
   - name: Ep1—Time to Take Notice
     embed_link: https://embed.radiopublic.com/e?if=preserve-this-podcast-WDJY3A&ge=s1!79bb33dadbe8c03e17a417879a02e0d005395047
     download_link: https://ia803005.us.archive.org/28/items/PreserveThisPodcastEpisode1/PreserveThisPodcast_Episode1.mp3
